@@ -1,25 +1,9 @@
 # Optimizing Healthcare Resources for the Elderly: A Government Allocation Model
 
-## Overview
+This project aims to optimize healthcare resources for the elderly using a government allocation model.
 
-This project aims to develop a model for optimizing healthcare resources for the elderly population using a government allocation approach. The goal is to efficiently allocate healthcare resources based on demographic data and predicted needs to ensure better service provision for the aging population.
+---
 
-## Table of Contents
+![image](https://github.com/user-attachments/assets/c95711bb-d053-41ac-9a52-2dda6ba39544)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Test](#test)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To set up the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Optimizing-Healthcare-Resources-for-the-Elderly-A-Government-Allocation-Model.git
-
+---
